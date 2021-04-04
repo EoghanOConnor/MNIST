@@ -1,10 +1,8 @@
 #########################################################################
 #
 # Author : 	Eoghan O'Connor 
-# Student I.D: 16110625	
 #
-#
-# File Name: 	Project 1 , Keras MNIST 
+# File Name: 	MNIST 
 #
 # Description:  A 2-layered convolutional layer is created,
 #				1st layer 5x5x32 followed by relu activation 
