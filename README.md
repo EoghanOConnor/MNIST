@@ -7,7 +7,7 @@ Description: The MNIST dataset is a set of single digit images. These images are
              
              
  
- The output of the MNIST classifiers.
+ The output of the classifier.
  
 ![image](https://user-images.githubusercontent.com/45408401/113506759-a5606100-953e-11eb-98a0-ce7157e5013d.png)
 
