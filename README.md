@@ -1,7 +1,7 @@
 # MNIST
 
 Description: The MNIST dataset is a set of single digit images. These images are classified by a CNN.
-             The MNIST dataset has become the benchmark test of a model. With the aim to get as close to 100% without
+             The MNIST dataset has become the benchmark testing a model's accuracy. With the aim to get as close to 100% without
              reaching it. This model has an accuracy of 99.2% to 99.4%.
              
              
